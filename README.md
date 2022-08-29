@@ -1,2 +1,1 @@
-# D210---Hosp-Data-Strory
-Hospital dataset strory telling
+# D210 - Storytelling of the Hospital Dataset
